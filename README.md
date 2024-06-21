@@ -12,6 +12,6 @@ Deploy Drawio server with CI/CD on Elestio
 
 You can open Drawio here:
 
-    URL: https://[CI_CD_DOMAIN]:45150
+    URL: https://[CI_CD_DOMAIN]
     login: "root"
     password: [ADMIN_PASSWORD]
